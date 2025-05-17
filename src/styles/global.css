@@ -83,6 +83,10 @@
     @apply text-black dark:text-white;
     @apply decoration-black/50 dark:decoration-white/50;
   }
+
+  article img {
+    @apply rounded;
+  }
 }
 
 .animate {
